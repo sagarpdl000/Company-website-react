@@ -9,12 +9,11 @@ function Navbar() {
        
         <img src={logo} />
        
-    
        <div className='rightside'>
         <Link to="/">Home</Link>
-        <Link to="/Services">Our Services</Link>
         <Link to="/About">About us</Link>
         <Link to="/Contact">Contact us</Link>
+        <Link to="/Services">Our Services</Link>
        </div>
     
 

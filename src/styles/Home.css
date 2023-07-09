@@ -1,0 +1,38 @@
+.home{
+    background-image:url("../assets/homebackgroundimg3.jpg");
+    height: 100vh;
+    width: 100%;
+    background-size: cover;
+    
+}
+
+button{
+    cursor: pointer;
+}
+
+
+
+.content{
+    padding-top: 20%;
+    padding-left: 5%;
+    width: 50%;
+
+
+}
+.h1{
+    margin-bottom: 30px;
+}
+
+
+.custom-link{
+    text-decoration: none;
+    
+    color: rgb(241, 241, 241);
+    font-weight: 500;
+    margin-top: 30px;
+    
+    
+    
+    
+
+} 
